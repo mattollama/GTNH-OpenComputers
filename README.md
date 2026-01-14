@@ -18,4 +18,5 @@ Then to actually import it, use the 'wget' command in the terminal
 wget [-f] <raw url> [/path/to/destination]
 ```
 The [-f] is optional and enables the command to overwrite an existing file with the same name at the specified destination.
+
 The [/path/to/destination] is option and allows the user to specify exactly where to save the downloaded script. If omitted, the file will simply save to the current directory.
